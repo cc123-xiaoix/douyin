@@ -1,0 +1,754 @@
+{
+  "0": [
+    {
+      "label": "电脑硬件办公",
+      "id": 1,
+      "parentId": 0
+    },
+    {
+      "label": "手机数码",
+      "id": 2,
+      "parentId": 0
+    },
+    {
+      "label": "家用电器",
+      "id": 3,
+      "parentId": 0
+    },
+    {
+      "label": "网络服务",
+      "id": 4,
+      "parentId": 0
+    },
+    {
+      "label": "互联网金融",
+      "id": 5,
+      "parentId": 0
+    },
+    {
+      "label": "交通",
+      "id": 6,
+      "parentId": 0
+    },
+    {
+      "label": "金融服务",
+      "id": 7,
+      "parentId": 0
+    },
+    {
+      "label": "教育培训",
+      "id": 8,
+      "parentId": 0
+    },
+    {
+      "label": "房地产",
+      "id": 9,
+      "parentId": 0
+    },
+    {
+      "label": "旅游住宿",
+      "id": 10,
+      "parentId": 0
+    },
+    {
+      "label": "商业零售",
+      "id": 11,
+      "parentId": 0
+    },
+    {
+      "label": "食品饮料",
+      "id": 12,
+      "parentId": 0
+    },
+    {
+      "label": "家庭日用品",
+      "id": 13,
+      "parentId": 0
+    },
+    {
+      "label": "化妆护理",
+      "id": 14,
+      "parentId": 0
+    },
+    {
+      "label": "母婴护理",
+      "id": 15,
+      "parentId": 0
+    },
+    {
+      "label": "家居建材",
+      "id": 16,
+      "parentId": 0
+    },
+    {
+      "label": "奢侈品",
+      "id": 17,
+      "parentId": 0
+    },
+    {
+      "label": "服装鞋帽",
+      "id": 18,
+      "parentId": 0
+    },
+    {
+      "label": "箱包饰品",
+      "id": 19,
+      "parentId": 0
+    },
+    {
+      "label": "生活服务",
+      "id": 20,
+      "parentId": 0
+    },
+    {
+      "label": "通讯服务",
+      "id": 21,
+      "parentId": 0
+    },
+    {
+      "label": "医疗服务",
+      "id": 22,
+      "parentId": 0
+    },
+    {
+      "label": "运动休闲娱乐",
+      "id": 23,
+      "parentId": 0
+    },
+    {
+      "label": "面向企业类",
+      "id": 24,
+      "parentId": 0
+    },
+    {
+      "label": "政府组织类",
+      "id": 25,
+      "parentId": 0
+    }
+  ],
+  "1": [
+    {
+      "label": "电脑整机",
+      "id": 101,
+      "parentId": 1
+    },
+    {
+      "label": "电脑服务",
+      "id": 102,
+      "parentId": 1
+    },
+    {
+      "label": "电脑配件",
+      "id": 103,
+      "parentId": 1
+    },
+    {
+      "label": "网络设备",
+      "id": 104,
+      "parentId": 1
+    },
+    {
+      "label": "办公设备",
+      "id": 105,
+      "parentId": 1
+    },
+    {
+      "label": "办公软件",
+      "id": 106,
+      "parentId": 1
+    }
+  ],
+  "2": [
+    {
+      "label": "手机",
+      "id": 201,
+      "parentId": 2
+    },
+    {
+      "label": "数码产品",
+      "id": 202,
+      "parentId": 2
+    }
+  ],
+  "3": [
+    {
+      "label": "厨用电器",
+      "id": 301,
+      "parentId": 3
+    },
+    {
+      "label": "大型家电",
+      "id": 302,
+      "parentId": 3
+    },
+    {
+      "label": "健康电器",
+      "id": 303,
+      "parentId": 3
+    },
+    {
+      "label": "生活小家电",
+      "id": 304,
+      "parentId": 3
+    }
+  ],
+  "4": [
+    {
+      "label": "游戏",
+      "id": 401,
+      "parentId": 4
+    },
+    {
+      "label": "应用软件",
+      "id": 402,
+      "parentId": 4
+    },
+    {
+      "label": "电商平台",
+      "id": 403,
+      "parentId": 4
+    },
+    {
+      "label": "其他网服",
+      "id": 404,
+      "parentId": 4
+    }
+  ],
+  "5": [
+    {
+      "label": "互联网金融",
+      "id": 501,
+      "parentId": 5
+    }
+  ],
+  "6": [
+    {
+      "label": "汽车",
+      "id": 601,
+      "parentId": 6
+    },
+    {
+      "label": "汽车服务",
+      "id": 602,
+      "parentId": 6
+    },
+    {
+      "label": "汽车配件",
+      "id": 603,
+      "parentId": 6
+    },
+    {
+      "label": "航空公司",
+      "id": 604,
+      "parentId": 6
+    },
+    {
+      "label": "交通运输服务",
+      "id": 605,
+      "parentId": 6
+    },
+    {
+      "label": "其他交通",
+      "id": 606,
+      "parentId": 6
+    }
+  ],
+  "7": [
+    {
+      "label": "典当",
+      "id": 701,
+      "parentId": 7
+    },
+    {
+      "label": "传统理财",
+      "id": 702,
+      "parentId": 7
+    },
+    {
+      "label": "证券",
+      "id": 703,
+      "parentId": 7
+    },
+    {
+      "label": "基金",
+      "id": 704,
+      "parentId": 7
+    },
+    {
+      "label": "拍卖",
+      "id": 705,
+      "parentId": 7
+    },
+    {
+      "label": "投资担保",
+      "id": 706,
+      "parentId": 7
+    },
+    {
+      "label": "银行",
+      "id": 707,
+      "parentId": 7
+    },
+    {
+      "label": "保险",
+      "id": 708,
+      "parentId": 7
+    }
+  ],
+  "8": [
+    {
+      "label": "留学移民",
+      "id": 801,
+      "parentId": 8
+    },
+    {
+      "label": "学历教育",
+      "id": 802,
+      "parentId": 8
+    },
+    {
+      "label": "特殊人群教育",
+      "id": 803,
+      "parentId": 8
+    },
+    {
+      "label": "道德教育",
+      "id": 804,
+      "parentId": 8
+    },
+    {
+      "label": "企业拓展",
+      "id": 805,
+      "parentId": 8
+    },
+    {
+      "label": "艺术兴趣培训",
+      "id": 806,
+      "parentId": 8
+    },
+    {
+      "label": "语言培训",
+      "id": 807,
+      "parentId": 8
+    },
+    {
+      "label": "职业教育",
+      "id": 808,
+      "parentId": 8
+    }
+  ],
+  "9": [
+    {
+      "label": "房地产公司",
+      "id": 901,
+      "parentId": 9
+    },
+    {
+      "label": "新房出售",
+      "id": 902,
+      "parentId": 9
+    },
+    {
+      "label": "二手房出售",
+      "id": 903,
+      "parentId": 9
+    },
+    {
+      "label": "房屋租赁",
+      "id": 904,
+      "parentId": 9
+    },
+    {
+      "label": "物业管理",
+      "id": 905,
+      "parentId": 9
+    }
+  ],
+  "10": [
+    {
+      "label": "宾馆酒店",
+      "id": 1001,
+      "parentId": 10
+    },
+    {
+      "label": "交通票务",
+      "id": 1002,
+      "parentId": 10
+    },
+    {
+      "label": "旅游服务",
+      "id": 1003,
+      "parentId": 10
+    },
+    {
+      "label": "旅游景点",
+      "id": 1004,
+      "parentId": 10
+    }
+  ],
+  "11": [
+    {
+      "label": "商场",
+      "id": 1101,
+      "parentId": 11
+    },
+    {
+      "label": "超市",
+      "id": 1102,
+      "parentId": 11
+    },
+    {
+      "label": "其他零售",
+      "id": 1103,
+      "parentId": 11
+    }
+  ],
+  "12": [
+    {
+      "label": "生活食材",
+      "id": 1201,
+      "parentId": 12
+    },
+    {
+      "label": "休闲零食",
+      "id": 1202,
+      "parentId": 12
+    },
+    {
+      "label": "饮料及冲调",
+      "id": 1203,
+      "parentId": 12
+    },
+    {
+      "label": "烟酒",
+      "id": 1204,
+      "parentId": 12
+    }
+  ],
+  "13": [
+    {
+      "label": "厨具餐具",
+      "id": 1301,
+      "parentId": 13
+    },
+    {
+      "label": "宠物用品",
+      "id": 1302,
+      "parentId": 13
+    },
+    {
+      "label": "成人用品",
+      "id": 1303,
+      "parentId": 13
+    },
+    {
+      "label": "日化用品",
+      "id": 1304,
+      "parentId": 13
+    }
+  ],
+  "14": [
+    {
+      "label": "化妆品",
+      "id": 1401,
+      "parentId": 14
+    }
+  ],
+  "15": [
+    {
+      "label": "母婴服务",
+      "id": 1501,
+      "parentId": 15
+    },
+    {
+      "label": "母婴用品",
+      "id": 1502,
+      "parentId": 15
+    },
+    {
+      "label": "婴幼儿奶粉",
+      "id": 1503,
+      "parentId": 15
+    }
+  ],
+  "16": [
+    {
+      "label": "建筑装修材料",
+      "id": 1601,
+      "parentId": 16
+    },
+    {
+      "label": "装修服务",
+      "id": 1602,
+      "parentId": 16
+    },
+    {
+      "label": "家具灯饰",
+      "id": 1603,
+      "parentId": 16
+    },
+    {
+      "label": "家纺家饰",
+      "id": 1604,
+      "parentId": 16
+    }
+  ],
+  "17": [
+    {
+      "label": "奢侈品",
+      "id": 1701,
+      "parentId": 17
+    }
+  ],
+  "18": [
+    {
+      "label": "服装",
+      "id": 1801,
+      "parentId": 18
+    },
+    {
+      "label": "眼镜钟表",
+      "id": 1802,
+      "parentId": 18
+    },
+    {
+      "label": "鞋靴皮革",
+      "id": 1803,
+      "parentId": 18
+    },
+    {
+      "label": "运动户外",
+      "id": 1804,
+      "parentId": 18
+    },
+    {
+      "label": "纺织辅料",
+      "id": 1805,
+      "parentId": 18
+    },
+    {
+      "label": "帽子手套",
+      "id": 1806,
+      "parentId": 18
+    }
+  ],
+  "19": [
+    {
+      "label": "箱包",
+      "id": 1901,
+      "parentId": 19
+    },
+    {
+      "label": "饰品",
+      "id": 1902,
+      "parentId": 19
+    }
+  ],
+  "20": [
+    {
+      "label": "婚庆交友",
+      "id": 2001,
+      "parentId": 20
+    },
+    {
+      "label": "保姆家政",
+      "id": 2002,
+      "parentId": 20
+    },
+    {
+      "label": "居民服务",
+      "id": 2003,
+      "parentId": 20
+    },
+    {
+      "label": "摄影",
+      "id": 2004,
+      "parentId": 20
+    },
+    {
+      "label": "家电维修",
+      "id": 2005,
+      "parentId": 20
+    },
+    {
+      "label": "餐饮服务",
+      "id": 2006,
+      "parentId": 20
+    }
+  ],
+  "21": [
+    {
+      "label": "运营商",
+      "id": 2101,
+      "parentId": 21
+    }
+  ],
+  "22": [
+    {
+      "label": "美容整形",
+      "id": 2201,
+      "parentId": 22
+    },
+    {
+      "label": "男科",
+      "id": 2202,
+      "parentId": 22
+    },
+    {
+      "label": "妇科",
+      "id": 2203,
+      "parentId": 22
+    },
+    {
+      "label": "体检机构",
+      "id": 2204,
+      "parentId": 22
+    },
+    {
+      "label": "中医",
+      "id": 2205,
+      "parentId": 22
+    },
+    {
+      "label": "专科医院",
+      "id": 2206,
+      "parentId": 22
+    },
+    {
+      "label": "综合医院",
+      "id": 2207,
+      "parentId": 22
+    },
+    {
+      "label": "药品保健",
+      "id": 2208,
+      "parentId": 22
+    },
+    {
+      "label": "医疗器械",
+      "id": 2209,
+      "parentId": 22
+    }
+  ],
+  "23": [
+    {
+      "label": "乐器",
+      "id": 2301,
+      "parentId": 23
+    },
+    {
+      "label": "娱乐票务",
+      "id": 2302,
+      "parentId": 23
+    },
+    {
+      "label": "宠物",
+      "id": 2303,
+      "parentId": 23
+    },
+    {
+      "label": "体育器械",
+      "id": 2304,
+      "parentId": 23
+    },
+    {
+      "label": "玩具模型",
+      "id": 2305,
+      "parentId": 23
+    },
+    {
+      "label": "运势测算",
+      "id": 2306,
+      "parentId": 23
+    },
+    {
+      "label": "休闲活动",
+      "id": 2307,
+      "parentId": 23
+    },
+    {
+      "label": "彩票",
+      "id": 2308,
+      "parentId": 23
+    },
+    {
+      "label": "图书音像",
+      "id": 2309,
+      "parentId": 23
+    },
+    {
+      "label": "礼品收藏",
+      "id": 2310,
+      "parentId": 23
+    },
+    {
+      "label": "铃声短信",
+      "id": 2311,
+      "parentId": 23
+    }
+  ],
+  "24": [
+    {
+      "label": "安全安保",
+      "id": 2401,
+      "parentId": 24
+    },
+    {
+      "label": "出版传媒",
+      "id": 2402,
+      "parentId": 24
+    },
+    {
+      "label": "电子电工",
+      "id": 2403,
+      "parentId": 24
+    },
+    {
+      "label": "化工原料制品",
+      "id": 2404,
+      "parentId": 24
+    },
+    {
+      "label": "机械设备",
+      "id": 2405,
+      "parentId": 24
+    },
+    {
+      "label": "节能环保",
+      "id": 2406,
+      "parentId": 24
+    },
+    {
+      "label": "农林牧渔",
+      "id": 2407,
+      "parentId": 24
+    },
+    {
+      "label": "商务服务",
+      "id": 2408,
+      "parentId": 24
+    },
+    {
+      "label": "通讯服务设备",
+      "id": 2409,
+      "parentId": 24
+    },
+    {
+      "label": "招商加盟",
+      "id": 2410,
+      "parentId": 24
+    }
+  ],
+  "25": [
+    {
+      "label": "社会组织类",
+      "id": 2501,
+      "parentId": 25
+    },
+    {
+      "label": "政府组织类",
+      "id": 2502,
+      "parentId": 25
+    }
+  ]
+}
